@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Crud_BD</string>
+
+    <string name="tv_titulo">Registro de Usuarios</string>
+    <string name="et_documento">DOCUMENTO</string>
+    <string name="et_usuario">USUARIO</string>
+    <string name="et_nombres">NOMBRES</string>
+    <string name="et_apellidos">APELLIDOS</string>
+    <string name="et_contra">CONTRASEÑA</string>
+    <string name="bt_resgistrar">REGISTRAR</string>
+    <string name="bt_buscar">BUSCAR</string>
+    <string name="bt_listar_registros">LISTAR</string>
+</resources>
